@@ -1,0 +1,19 @@
+{
+  "name": "parcel",
+  "source": "src/index.html",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Parcel try-out from official getting started tutorial",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.1",
+    "sharp": "^0.29.2"
+  }
+}

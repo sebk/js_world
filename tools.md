@@ -15,4 +15,7 @@ https://webpack.js.org/concepts/
 * => [more](./webpack/README.md)
 
 # parcel
-
+https://parceljs.org/
+* Parcel is a web application bundler
+* => [more](./parcel/README.md)
+* 

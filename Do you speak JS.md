@@ -1,11 +1,6 @@
 JavaScript World
 =================
 
-webpack
-parcel
-javascript 
-typescript
-
 ### Module
 
 https://stackify.com/node-js-module-exports/
