@@ -9,6 +9,7 @@ https://stackify.com/node-js-module-exports/
 * module systems: CommonJS, AMD, RequireJS, UMD, ...
 * Node.js uses CommonJS
 * `module` is an object with an `export` property
+* Modules are executed within their own scope, not in the global scope
 
 ### CommonJS => [CommonJS.md](./commonjs.md)
 
