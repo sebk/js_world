@@ -1,7 +1,6 @@
 JavaScript World
 =================
 
-esbuild
 webpack
 parcel
 javascript 
@@ -22,4 +21,4 @@ https://stackify.com/node-js-module-exports/
 
 ### JS Versions => [js-versions.md](./js-versions.md)
 
-### Toosl, babel => [tools.md](./tools.md)
+### Tools => [tools.md](./tools.md)

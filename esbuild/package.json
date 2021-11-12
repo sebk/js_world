@@ -1,0 +1,19 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out.js",
+  "scripts": {
+    "build": "esbuild app.jsx --bundle --outfile=out.js",
+    "bundle:browser": "esbuild app.jsx --bundle --minify --sourcemap --target=chrome58,firefox57,safari11,edge16 --outfile=out.js",
+    "bundle:node": "esbuild app.jsx --bundle --platform=node --outfile=out.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "esbuild": "^0.13.13",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
